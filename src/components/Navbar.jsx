@@ -7,7 +7,7 @@ function Navbar(props) {
   return (
     <>
       <div className="w-full flex py-6 justify-center item-center navbar">
-        <img src={logo1} alt="hoobank" className="w-[80px]" />
+        <img src={logo1} alt="hoobank" className="ss:w-[80px] w-[60px]" />
         <ul className="list-none sm:flex hidden justify-end items-center flex-1">
           {navLinks.map((nav, index) => (
             <li
