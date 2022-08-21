@@ -23,7 +23,7 @@ const Hero = () => {
             Ritik Sharma. <br className="sm:block hidden" />{" "}
           </h1>
         </div>
-        <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[80px] leading-[65px] mt-3">
+        <h1 className="flex-1 font-poppins font-semibold text-[45px] xs:text-[50px] ss:text-[72px] text-white ss:leading-[80px] leading-[65px] mt-3">
           <span className="text-gradient">I build things for the web.</span>
         </h1>
 
