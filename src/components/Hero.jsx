@@ -27,7 +27,7 @@ const Hero = () => {
           <span className="text-gradient">I build things for the web.</span>
         </h1>
 
-        <p className={`${styles.paragraph} max-w-[600px] mt-5`}>
+        <p className={`${styles.paragraph} max-w-[600px] mt-5 font-inter`}>
           I’m a{" "}
           <span className="text-gradient font-medium">
             Computer Science undergrad student

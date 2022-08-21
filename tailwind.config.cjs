@@ -11,6 +11,7 @@ module.exports = {
         dimBlue: "rgba(9, 151, 124, 0.1)",
       },
       fontFamily: {
+        inter:["Inter","san-serif"],
         poppins: ["Poppins", "sans-serif"],
         roboto: ["Roboto Mono", "monospace"],
       },
