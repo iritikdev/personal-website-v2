@@ -19,7 +19,7 @@ const Hero = () => {
         </div>
 
         <div className="flex flex-row justify-between items-center w-full">
-          <h1 className="flex-1 font-poppins font-semibold ss:text-[60px] text-[52px] text-white ss:leading-[80px] leading-[70px] mt-3 ">
+          <h1 className="flex-1 font-poppins font-semibold text-[45px] xs:text-[50px] ss:text-[72px] text-white ss:leading-[80px] leading-[70px] mt-3 ">
             Ritik Sharma. <br className="sm:block hidden" />{" "}
           </h1>
         </div>
